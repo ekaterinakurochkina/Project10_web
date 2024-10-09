@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6770d7f7-87c2-4829-b4a7-502379ecaa78" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/css/person-circle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/table.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+    <list default="true" id="6770d7f7-87c2-4829-b4a7-502379ecaa78" name="Changes" comment="Главная">
+      <change afterPath="$PROJECT_DIR$/svg/bootstrap-logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web.py" beforeDir="false" afterPath="$PROJECT_DIR$/web.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/person-circle.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg/person-circle.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/table.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg/table.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +31,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2n3WRr68xJWTfMaGHWT68wM1bzz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,14 +45,18 @@
     "Python.web.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "feature/task1",
-    "last_opened_file_path": "/Users/ekaterinakurockina/PycharmProjects/pythonProject10/css",
+    "last_opened_file_path": "/Users/ekaterinakurockina/PycharmProjects/pythonProject10/svg",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/svg" />
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/svg" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -88,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728203337889</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Главная">
+      <option name="closed" value="true" />
+      <created>1728222243074</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728222243074</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="Главная" />
+    <option name="LAST_COMMIT_MESSAGE" value="Главная" />
   </component>
 </project>
